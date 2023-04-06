@@ -23,8 +23,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ryan Sonshine",
-    "email": "ryansonshine@users.noreply.github.com",
+    "name": "Ian Balijawa",
+    "email": "ianbalijawa16@gmail.com",
     "url": "https://github.com/ryansonshine"
   },
   "engines": {
@@ -48,7 +48,7 @@
   "devDependencies": {
     "@ryansonshine/commitizen": "^4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
-    "@types/jest": "^27.5.2",
+    "@types/jest": "^29.5.0",
     "@types/node": "^12.20.11",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
